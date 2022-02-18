@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05086446b060e2fd086ffc3cf7bed0ba",
+    "revision": "ba05e8713b88ade1821bac2e250c1165",
     "url": "/nft-wallet/index.html"
   },
   {
-    "revision": "3f3035843388be95d3f6",
-    "url": "/nft-wallet/static/css/main.f7030f92.chunk.css"
+    "revision": "bdc3e24971427e0864bd",
+    "url": "/nft-wallet/static/css/main.52a81ba6.chunk.css"
   },
   {
     "revision": "666a0da8045874495a41",
     "url": "/nft-wallet/static/js/2.8ec45883.chunk.js"
   },
   {
-    "revision": "3f3035843388be95d3f6",
-    "url": "/nft-wallet/static/js/main.a25ad8b5.chunk.js"
+    "revision": "bdc3e24971427e0864bd",
+    "url": "/nft-wallet/static/js/main.7865bb44.chunk.js"
   },
   {
     "revision": "4fcb6b46d2f838c6fad2",
