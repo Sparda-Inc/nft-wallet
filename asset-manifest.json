@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nft-wallet/static/css/main.42345193.chunk.css",
-    "main.js": "/nft-wallet/static/js/main.02ec3bdd.chunk.js",
-    "main.js.map": "/nft-wallet/static/js/main.02ec3bdd.chunk.js.map",
+    "main.js": "/nft-wallet/static/js/main.f64628c7.chunk.js",
+    "main.js.map": "/nft-wallet/static/js/main.f64628c7.chunk.js.map",
     "runtime~main.js": "/nft-wallet/static/js/runtime~main.ad457597.js",
     "runtime~main.js.map": "/nft-wallet/static/js/runtime~main.ad457597.js.map",
     "static/js/2.8ec45883.chunk.js": "/nft-wallet/static/js/2.8ec45883.chunk.js",
     "static/js/2.8ec45883.chunk.js.map": "/nft-wallet/static/js/2.8ec45883.chunk.js.map",
     "index.html": "/nft-wallet/index.html",
-    "precache-manifest.be2ae578329e926ce37c46771c420fb8.js": "/nft-wallet/precache-manifest.be2ae578329e926ce37c46771c420fb8.js",
+    "precache-manifest.d4d122dd515d30bc6bbf7763d0f50846.js": "/nft-wallet/precache-manifest.d4d122dd515d30bc6bbf7763d0f50846.js",
     "service-worker.js": "/nft-wallet/service-worker.js",
     "static/css/main.42345193.chunk.css.map": "/nft-wallet/static/css/main.42345193.chunk.css.map"
   }
