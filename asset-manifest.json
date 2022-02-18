@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.f7030f92.chunk.css",
-    "main.js": "/my-app/static/js/main.a25ad8b5.chunk.js",
-    "main.js.map": "/my-app/static/js/main.a25ad8b5.chunk.js.map",
-    "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
-    "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
-    "static/js/2.8ec45883.chunk.js": "/my-app/static/js/2.8ec45883.chunk.js",
-    "static/js/2.8ec45883.chunk.js.map": "/my-app/static/js/2.8ec45883.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.0eff81e2a90edca7b3a5e581f65638bd.js": "/my-app/precache-manifest.0eff81e2a90edca7b3a5e581f65638bd.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.f7030f92.chunk.css.map": "/my-app/static/css/main.f7030f92.chunk.css.map"
+    "main.css": "/nft-wallet/static/css/main.f7030f92.chunk.css",
+    "main.js": "/nft-wallet/static/js/main.a25ad8b5.chunk.js",
+    "main.js.map": "/nft-wallet/static/js/main.a25ad8b5.chunk.js.map",
+    "runtime~main.js": "/nft-wallet/static/js/runtime~main.ad457597.js",
+    "runtime~main.js.map": "/nft-wallet/static/js/runtime~main.ad457597.js.map",
+    "static/js/2.8ec45883.chunk.js": "/nft-wallet/static/js/2.8ec45883.chunk.js",
+    "static/js/2.8ec45883.chunk.js.map": "/nft-wallet/static/js/2.8ec45883.chunk.js.map",
+    "index.html": "/nft-wallet/index.html",
+    "precache-manifest.1363b5ccc6629cf547b429eaeeb0d3f1.js": "/nft-wallet/precache-manifest.1363b5ccc6629cf547b429eaeeb0d3f1.js",
+    "service-worker.js": "/nft-wallet/service-worker.js",
+    "static/css/main.f7030f92.chunk.css.map": "/nft-wallet/static/css/main.f7030f92.chunk.css.map"
   }
 }
